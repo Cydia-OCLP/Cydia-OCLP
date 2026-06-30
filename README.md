@@ -1,7 +1,7 @@
 ## Hi there, welcome to Cydia OCLP👋
 
 currently, cydia OCLP is in-dev, and **YOU** can help!
-If you have an old intel mac or a hackintosh, you can test beta version of Cydia OCLP and report bugs.
+If you have an old intel mac or a hackintosh, you can test the beta version of Cydia OCLP and report bugs.
 <!--
 **Cydia-OCLP/Cydia-OCLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
